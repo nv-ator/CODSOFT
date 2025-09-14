@@ -22,7 +22,9 @@ The dataset includes passenger details such as age, gender, ticket class, and fa
 5. Best model selection and sample predictions  
 
 ## Results
-- Achieved ~80–82% accuracy on the test set.  
+- Achieved ~80–82% accuracy on the test set. 
 - The model predicts deaths more accurately than survivals (due to class imbalance).  
 
 ## Sample Prediction
+Predictions: [0 0 0 1 1]
+Actual: [1 0 0 1 1]
