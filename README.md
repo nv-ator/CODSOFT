@@ -27,4 +27,4 @@ The dataset includes passenger details such as age, gender, ticket class, and fa
 
 ## Sample Prediction
 Predictions: [0 0 0 1 1]
-Actual: [1 0 0 1 1]
+Actual: [0 0 1 1 1]
